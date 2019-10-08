@@ -2,3 +2,7 @@ body {
     background-image: url(images/backgroundimage.jpg);
     background-size: cover;
 }
+.nav-logo {
+    height: 30px;
+    width: 30px;
+}
