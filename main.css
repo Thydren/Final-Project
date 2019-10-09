@@ -2,12 +2,29 @@ body {
     background-image: url(images/backgroundimage.png);
     background-size: cover;
 }
+
 .nav-logo {
     height: 30px;
     width: 30px;
 }
+
 #menu {
     border: 2px dashed purple;
     padding: 1em;
     margin: 1em auto;
+}
+
+#coffee {
+font-size: 100px;
+color: purple;
+}
+
+#donuts {
+font-size: 100px;
+color: white;
+}
+
+#cookies {
+font-size: 100px;
+color: pink;
 }
