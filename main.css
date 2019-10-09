@@ -6,3 +6,8 @@ body {
     height: 30px;
     width: 30px;
 }
+#menu {
+    border: 2px dashed purple;
+    padding: 1em;
+    margin: 1em auto;
+}
