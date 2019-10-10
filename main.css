@@ -1,17 +1,25 @@
 body {
-    background-image: url(images/backgroundimage.png);
-    background-size: cover;
+background-image: url(images/backgroundimage.png);
+background-size: cover;
 }
 
 .nav-logo {
-    height: 30px;
-    width: 30px;
+height: 30px;
+width: 30px;
 }
 
 #menu {
-    border: 2px dashed purple;
-    padding: 1em;
-    margin: 1em auto;
+padding: 700px 0;
+width: 1000px;
+}
+
+.center-text {
+text-align: center;
+}
+
+.center-me {
+margin-left: auto;
+margin-right: auto;
 }
 
 #coffee {
@@ -32,15 +40,16 @@ color: pink;
 .carousel {
 height: 500px;
 width: 1000px;
-margin-left: auto;
-margin-right: auto;
-
 }
 
-.products {
-    text-shadow:
-        -1px -1px 0 #000,
-        1px -1px 0 #000,
-        -1px 1px 0 #000,
-        1px 1px 0 #000;
+.text-shadow {
+text-shadow:
+-1px -1px 0 #000,
+1px -1px 0 #000,
+-1px 1px 0 #000,
+1px 1px 0 #000;
+}
+
+#table-title {
+color: white;
 }
