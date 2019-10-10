@@ -28,6 +28,22 @@ color: aqua;
 color: darkmagenta;
 }
 
+#feedback {
+width: 1000px;
+}
+
+.feedback-input {
+width: 500px;
+}
+
+#feedback-title {
+color: azure;
+}
+
+#form-group {
+    width: 500px;
+}
+
 .mapouter {
 width: 600px;
 }
